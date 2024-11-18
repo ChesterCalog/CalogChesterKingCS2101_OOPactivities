@@ -28,7 +28,6 @@ public class Artist {
         return specialty;
     }
 
-    //mutators
     public void setName(String name) {
         this.name = name;
     }
