@@ -12,7 +12,6 @@ public class Artist {
         this.specialty = specialty;
     }
 
-    // accessors
     public String getName() {
         return name;
     }
